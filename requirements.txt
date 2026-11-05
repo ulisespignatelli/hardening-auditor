@@ -1,0 +1,2 @@
+# El auditor usa solo la librería estándar de Python (3.8+).
+# No requiere dependencias externas.
